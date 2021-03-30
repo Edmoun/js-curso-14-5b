@@ -16,3 +16,30 @@
         Hacemos git commit -am "Crea funcion saveTask()"
         Hacemos git push
 
+
+
+
+
+
+
+
+
+
+### Lab 8.4 trabajando con opciones de yargs.
+* [ ] Empezamos a trabajar con **opcions.js**
+  * [ ] Creamos los objetos para nuestros comandos:
+        * description
+        * title
+        * completed
+        * erased
+  * [ ] Creamos las opciones para nuestros comandos:
+        * opcionsCreate
+        * opcionsUpdate
+        * opcionsErase
+  * [ ] Exportamos nuestras opciones
+  * [ ] Hacemos **git add.**
+  * [ ] Hacemos **git commit -am "Configura argvs con opciones para los comandos"**
+  * [ ] Hacemos **git push**
+
+
+
