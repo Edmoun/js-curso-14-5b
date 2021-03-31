@@ -43,3 +43,14 @@
 
 
 
+  ### Lab 8.5 Trabajamos en funciones para los tasks o tareas.
+   
+    * [ ] Empezamos a trabajar con tasks.js
+        * [ ] CReamos funnciones para trabajar los tasks: *createTask*updateTask*eraseTask
+        * [ ] Exportamos nuestars funciones.
+        * [ ] Hacemos git add .
+        * [ ] Hacemos git commit -am "Configura argvs con opciones para los comandos"
+        * [ ] Hacemos git push
+
+
+
