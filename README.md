@@ -69,6 +69,24 @@
   * [ ] Hacemos git commit -am "Exportar tools components"
   * [ ] Hacemos git push
 
+### Lab 8.7 Trabajamos con nuestra aplicacion principal
+
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
