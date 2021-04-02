@@ -71,7 +71,13 @@
 
 ### Lab 8.7 Trabajamos con nuestra aplicacion principal
 
-*
+* [ ] Empezamos a trabajar con el fichero **app.js**
+* [ ] Importamos las herramientas ```tasks argv``` y el paquete ```colors```
+  * [ ] Usamos estructura ```switch```
+    * [ ] Filtramos los comandos ```create update delete```
+* [ ] Hacemos **git add .**
+* [ ] Hacemos **git commit -am "Finaliza proyecto-pruebas de funcionamiento"**
+* [ ] Hacemos **git push**c
 
 
 
